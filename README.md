@@ -1,4 +1,4 @@
-# Manuscript
+# Manuscript code
 Pipeline for Identification of metagenomic viral contigs
 
 Identification of viral contigs in metagenome data
